@@ -11,6 +11,6 @@ Ratamestari (sunnuntai): Sami Valkama
 
 Tekninen asiantuntija: Matti Mäkirinne  
 Valvoja: Ilkka Saarimäki  
-WRE Valvoja: Vesa Elovaara
+WRE-valvoja: Vesa Elovaara
 
 Tulospalvelu: Niko-Petteri Salo, nikopetteri.salo@gmail.com, ‭040 570 5672‬
