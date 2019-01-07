@@ -14,4 +14,4 @@ Tekninen asiantuntija: Matti Mäkirinne
 Valvoja: Ilkka Saarimäki  
 WRE-valvoja: Vesa Elovaara
 
-Tulospalvelu: Niko-Petteri Salo, nikopetteri.salo@gmail.com, ‭040 570 5672‬
+Tulospalvelu: Niko-Petteri Salo, niko@resultsalo.fi, ‭+358 40 570 5672‬
