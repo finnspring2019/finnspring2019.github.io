@@ -17,3 +17,6 @@ Kuulostaako
  c. ympäristöteolta?
 
 [Ota kantaa!](https://goo.gl/forms/rptpUIOqOHfYhl1N2) Laita kommenttisi avoimeen palautekanavaan tai ota kantaa somessa.
+
+Matti Tahvonen,
+kilpailunjohtaja
