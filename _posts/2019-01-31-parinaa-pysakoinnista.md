@@ -7,7 +7,7 @@ Niinhän siinä sitten kävi, kuten ajattelinkin, että keskustelua aihe herätt
 
 ## Puolesta…
 
-Mallin hyvät puolet tulikin jo edellisessä kirjoituksessani käytyä läpi. Ja useimmat ne myös siis allekirjoittivat. Lähes 70% kyselyyn vastanneista (yht. 66kpl) piti ideaa hyvänä. Siinä jäi Niinistön murskalukematkin toiseksi.
+Mallin hyvät puolet tulikin jo [edellisessä kirjoituksessani](https://finnspring2019.eu/2019-01-27-kaanteinen-paikoitusmaksu/) käytyä läpi. Ja useimmat ne myös siis allekirjoittivat. Lähes 70% kyselyyn vastanneista (yht. 66kpl) piti ideaa hyvänä. Siinä jäi Niinistön murskalukematkin toiseksi.
 
 Ideaa ehdoteltiin myös kuntorasteille, joille myös mennään turhan usein yksin ja joilla myös on ongelmia sovittaa kasvavat kuntosuunnistusmassat mielenkiintoisten maastojen läheisyyteen. Samoin ideaa ehdoteltiin muihin lajeihin ja jopa Ed Sheeranin keikoille. Ei muuta kuin idea kiertoon.
 
