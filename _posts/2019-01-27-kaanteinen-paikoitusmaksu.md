@@ -16,7 +16,8 @@ Kuulostaako
  b. rahastukselta vai
  c. ympäristöteolta?
 
-**[Ota kantaa!](https://goo.gl/forms/rptpUIOqOHfYhl1N2)** Laita kommenttisi [avoimeen palautekanavaan](https://goo.gl/forms/rptpUIOqOHfYhl1N2) tai ota kantaa somessa.
+~~ **[Ota kantaa!](https://goo.gl/forms/rptpUIOqOHfYhl1N2)** Laita kommenttisi [avoimeen palautekanavaan](https://goo.gl/forms/rptpUIOqOHfYhl1N2) tai ota kantaa somessa.~~ Tulokset nyt julki [seuraavassa blogipostissa](/2019-01-31-parinaa-pysakoinnista).
+
 
 Matti Tahvonen,
 kilpailunjohtaja
