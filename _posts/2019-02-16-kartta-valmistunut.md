@@ -5,7 +5,7 @@ title: Kilpailukartta on valmistunut – nähtävillä alueen vanhat kartat
 
 Tämän vuoden FinnSpring-kartan ovat laatineet Eero-Antti Lonka [Karttahemmoista](https://www.karttahemmot.fi/Yhteystiedot/) ja Antti Veijalainen Paimion Rastista. Eero-Antti on vastannut suurimmasta osasta kisa-aluetta, ja Antti on talkoillut pelkästään viestin käytössä olevat maaston osat. Koko kilpailualue ja hieman ekstraa on nyt kaikki uutta nykyaikaista laserkeilausaineistoon pohjautuvaa suunnistuskarttaa.
 
-![Maastokuva](2019-02-16-pukki-ja-kone.jpg "Pukki ja kone")
+![Maastokuva]({{ site.url }}/img/2019-02-16-pukki-ja-kone.jpg "Pukki ja kone")
 *Karttahemmojen Eero-Antti Lonka bongasi maastosta rastipukkeja menneiltä vuosikymmeniltä.*
 
 Paljon maastoja nähnyt Eki arvioi maaston tyypilliseksi hyväksi varsinaissuomalaiseksi suunnistusmaastoksi. "Kartoitus oli sopivan haasteellista ja vaihtelevaa. Hienon maaston ja hyvän kulkukelpoisuuden lisäksi mieleen ovat jääneet pari kummallista löytöä maastosta. Toisessa oksalta roikkui tekovaris ja toisesta löytyi leppäkertuiksi maalattuja kiviä. Näiden olemassaolon tarkoitus jäi meikäläiselle avoimeksi, ehkä ne liittyvät geokätköilyyn tai sitten ihan johonkin muuhun... Näiden kummallisuuksien lisäksi bongailin useamman vanhan rastipukin, joista osa oli tuoreempia ja osa jo parhaat päivänsä nähneitä."
@@ -19,7 +19,7 @@ Tuoreimmat kartat osasta kisa-alueesta löytyy niinkin läheltä kuin vuodelta 2
 
 Tervetuloa kisaamaan Sauvoon nykyaikaisille laatukartoille! Alla vielä pari Karttahemmojen kuvaa maastosta.
 
-![Tuore pukki](2019-02-16-tuorepukki.jpg "Tuore pukki")
-![Maastokuva](2019-02-16-leppakerttu.jpg "Maastokuva")
-![Maastokuva](2019-02-16-kivijapukki.jpg "Maastokuva")
-![Maastokuva](2019-02-16-hirtetty-varis.jpg "Maastokuva")
+![Tuore pukki]({{ site.url }}/img/2019-02-16-tuorepukki.jpg "Tuore pukki")
+![Maastokuva]({{ site.url }}/img/2019-02-16-leppakerttu.jpg "Maastokuva")
+![Maastokuva]({{ site.url }}/img/2019-02-16-kivijapukki.jpg "Maastokuva")
+![Maastokuva]({{ site.url }}/img/2019-02-16-hirtetty-varis.jpg "Maastokuva")
