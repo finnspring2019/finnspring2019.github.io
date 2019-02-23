@@ -1,8 +1,11 @@
-# FinnSpringissä maksat kisamakkaran kätevästi maksukortilla
+---
+layout: post
+title: FinnSpringissä maksat kisamakkaran kätevästi maksukortilla
+---
 
 Aika rientää ja housut kuluu, sanoi sotilas Pekka ja Pätkä Suezilla-elokuvassa. Sen verran pitkälle on aika meitä kuljettanut, että ainakin allekirjoittaneelta perinteistä käteistä löytyy lähinnä Keski-Eurooppaan suuntautuvilla työmatkoilla, niilläkin Saksan keskiaikaisia takseja varten. Kisapaikoilla olen viime aikoina useimmiten joutunut käymään vaimon lompakolla tai pummimaan kavereilta käteistä, jotta pääsen sen aina niin olennaisen kisamakkaran makuun. Kortit ovat käyneet lähinnä Jukolan Viestin tasoisissa suurkisoissa ja tällöin järjestäjät ovat käyttäneet vuokralaitteita.
 
- FinnSpringissä haluamme tarjota nykyaikaisen kilpailun. Hankimme Paimion Rastille maksupäätteen, ja todennäköisesti saamme vielä kisan alla laitteen tai pari lisää. Maksupäätteet tukevat lähimaksu- ja sirukortteja sekä Apple Pay/Google Pay -kännykkämaksuja. Jos tekniikka pelaa, niin pikkupurtavan ja virvokkeiden saaminen ei pitäisi enää vaatia käyntiä kaverin lompakolla.
+FinnSpringissä haluamme tarjota nykyaikaisen kilpailun. Hankimme Paimion Rastille maksupäätteen, ja todennäköisesti saamme vielä kisan alla laitteen tai pari lisää. Maksupäätteet tukevat lähimaksu- ja sirukortteja sekä Apple Pay/Google Pay -kännykkämaksuja. Jos tekniikka pelaa, niin pikkupurtavan ja virvokkeiden saaminen ei pitäisi enää vaatia käyntiä kaverin lompakolla.
 
 Koska uusi on aina uutta ja ongelmia voi ilmetä, toivomme toki, että myös perinteistä valuuttaa on useimmilla vielä mukana!
 
