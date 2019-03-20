@@ -17,6 +17,6 @@ Tapetilla on tällä hetkellä järjestelmä, jossa lähtöaikoja pääsee valit
 
 Millaisia ajatuksia suunnitelma herättää? Tämä, jotain aivan muuta vai normaalilähtö? Täytä kysely ja/tai kommentoi sosiaalisessa mediassa!
 
-[Kyselulomake](https://docs.google.com/forms/d/e/1FAIpQLScjyBrhk6SxILzVtWO1mKaw7J3R6Wq5lvcvPNMB3EirsCC7Vg/viewform)
+[Kyselylomake](https://docs.google.com/forms/d/e/1FAIpQLScjyBrhk6SxILzVtWO1mKaw7J3R6Wq5lvcvPNMB3EirsCC7Vg/viewform)
 
 Matti Tahvonen, kilpailun johtaja
