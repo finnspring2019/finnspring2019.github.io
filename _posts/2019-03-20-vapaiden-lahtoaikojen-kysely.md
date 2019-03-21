@@ -7,7 +7,7 @@ SSL:n syksyllä tehdyssä kyselyssä nousi esille lähtöaikojen vapaa valinta. 
 
 Emitiin pohjautuva ajanotto ei suinkaan ole ainoa probleema, vaan lähtöaikojen jako ja lähdön toiminta tuo palettiin oman hankaluutensa. [Liitonkin ehdottamalla](https://uutiskirje.suunnistusliitto.fi/a/s/6793482-dffa15df874167373c8616f33262b536/3020445) "tarralappusysteemillä" lähdön aukiolo pystytään pitämään kurissa, mutta juoksijat joutuvat tällöin saapumaan ajoissa paikalle varaamaan lähtöaikaansa ja lähdössä joudutaan silti tekemään omaa kirjanpitoaan lähteneistä.
 
-FinnSpringiä ajatellen olemme pohtineet niin sanottujen AL-sarjojen avaamista tälle mahdollisuudelle. Rankipisteissä rokotetaan 5%, mutta useimpia taitaisi kuitenkin kiinnostaa sujuva toiminta kisapaikalla ja mahdollisuus ehtiä seuraamaan “tärkeämpien perheenjäsenten” juoksuja.
+FinnSpringiä ajatellen olemme pohtineet niin sanottujen AL-sarjojen avaamista tälle mahdollisuudelle. Rankipisteissä ~~rokotetaan 5%~~ (tämä muutettu kaudelle 2019!), mutta useimpia taitaisi kuitenkin kiinnostaa sujuva toiminta kisapaikalla ja mahdollisuus ehtiä seuraamaan “tärkeämpien perheenjäsenten” juoksuja.
 
 Tapetilla on tällä hetkellä järjestelmä, jossa lähtöaikoja pääsee valitsemaan jo, ja vain, ennen kisapäivää. Toivoisimme pikaista ajatuksia ja puolesta/vastaan ääniä, jotta ehdimme järjestelyn toteuttaa. Tarkempi kuvaus suunnitelmastamme:
 
