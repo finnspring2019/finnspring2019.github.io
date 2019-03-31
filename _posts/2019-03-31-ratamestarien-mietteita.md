@@ -22,5 +22,5 @@ Liisa Ahonen, FinnSpring 2019 tietottaja
 
 ![Maastokuva]({{ site.url }}/img/2019-03-30-metsa.jpg "Maastokuva")
 ![Maastokuva]({{ site.url }}/img/2019-03-30-metsa2.jpg "Maastokuva")
-![Maastokuva]({{ site.url }}/img/2019-02-16-2019-03-30-kallio.jpg "Maastokuva")
+![Maastokuva]({{ site.url }}/img/2019-03-30-kallio.jpg "Maastokuva")
 
