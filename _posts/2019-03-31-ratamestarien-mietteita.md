@@ -18,7 +18,7 @@ Viestikilpailun ratamestari Sami Valkama kertoi maaston mahdollistavan monipuoli
 
 Olli Axelinin mukaan lähellä kilpailukeskusta on paljon polkuja ja polkujen risteyksiä. Nuorempien on luettava tarkasti karttaa, jotta esimerkiksi viiden polun risteyksessä osaa valita oikean uran. Keväällä moni vaihtaa sarjaa, joten ratoja ei ole tehty liian haastaviksi. Jukka Oksa toivoo, että FinnSpring tarjoaisi hienoja elämyksiä kaikille osallistujille.
 
-Liisa Ahonen, FinnSpring 2019 tietottaja
+Liisa Ahonen, FinnSpring 2019 tiedottaja
 
 ![Maastokuva]({{ site.url }}/img/2019-03-30-metsa.jpg "Maastokuva")
 ![Maastokuva]({{ site.url }}/img/2019-03-30-metsa2.jpg "Maastokuva")
