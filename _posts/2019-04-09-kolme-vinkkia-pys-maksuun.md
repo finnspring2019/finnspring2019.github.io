@@ -27,4 +27,6 @@ Juuri tätä kisaa varten teimme erittäin matalan kynnyksen [“ilmoitustaulun�
 
 ### [Kimppakyytien ilmoitustaulu](https://docs.google.com/spreadsheets/d/1r2sPT9-v6lhxa1H_aXDH0H7nNEI_YtohExgPK6_iM14/edit#gid=0)
 
+Mukavia ja turvallisia kimppakyytejä kaikille!
 
+Matti Tahvonen, Kilpailunjohtaja
