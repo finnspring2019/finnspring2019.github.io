@@ -9,7 +9,9 @@ Tavoitteenamme ei siis ole kokeilulla kerätä enemmän rahaa. Emmekä ole onnis
 
 ## 1. Selvitä seurasi muut ilmoittautuneet IRMAsta
 
-Useimmat meistä edustavat seuraa lähellä asuinpaikkaansa ja näin seurakaverit ovat niitä luontevimpia kimppakyytikavereita. IRMAn kautta näet kätevästi kaikki ilmoittautuneet, mutta voit myös listata vain oman seurasi ilmoittautuneet listan yläpäässä olevalla suodattimella. Sitä selailemalla voit tarttua puhelimeen tai lähettää sähköpostin niille, joiden arvelet kulkevan vajailla autoilla.
+Useimmat meistä edustavat seuraa lähellä asuinpaikkaansa ja näin seurakaverit ovat niitä luontevimpia kimppakyytikavereita. IRMAn kautta näet kätevästi [kaikki ilmoittautuneet](https://irma.suunnistusliitto.fi/irma/public/competition/entries?id=1206987&pageuuid=06414370-31f1-41e3-b3c3-6b33e66b566b), mutta voit myös listata vain oman seurasi ilmoittautuneet listan yläpäässä olevalla suodattimella. Sitä selailemalla voit tarttua puhelimeen tai lähettää sähköpostin niille, joiden arvelet kulkevan vajailla autoilla.
+
+![Ilmoittautuneiden suodatus]({{ site.url }}/img/2019-04-09-ilmoittautuneiden-suodatus.png "Ilmojen suodatus")
 
 Huom! Jos huomaat jonkun seurakaverisi puuttuvan listalta, kannattaa tietenkin myös nykäistä häntä hihasta tämän viikon kuntorasteilla ja ehdottaa: “ilmoittauduhan kisoihin, pääset kyydissä!” Säästämillänne euroilla juotte kotimatkalla huoltoasemakahvit ja analysoitte onnistuneet reitinvalinnat!
 
