@@ -1,4 +1,7 @@
-# Kolme vinkkiä välttää FinnSpringin pysäköintimaksu
+---
+layout: post
+title: Kolme vinkkiä välttää FinnSpringin pysäköintimaksu
+---
 
 Pari kuukautta sitten julkaisimme laajahkon julkisen keskustelun jälkeen kokeilun “käänteisestä pysäköintimaksusta”. Kuten parissa aikaisemmassa blogissa ja internetin keskusteluissa on todettu, ideaalitilanteessa parkkimaksuja ei kerättäisi ollenkaan, vaan kilpailun järjestelyistä tuleva “voitto” olisi kaikkien kannalta helpompaa kerätä vaikka osallistumismaksuissa, jotka suunnistuksessa ovat moniin muihin vastaaviin lajeihin verrattuna edelleen varsin alhaiset. Autojen määrän vähentämiseksi parkkimaksuja on ennenkin kisoissa kerätty. Nyt “parkkivero” on vain progressiivinen – käänteisesti matkustajamäärään verrattuna.
 
