@@ -25,6 +25,6 @@ Facebookissa on suosittu “Suunnistus”-ryhmä. Samoin löytyy jopa erityisest
 
 Juuri tätä kisaa varten teimme erittäin matalan kynnyksen [“ilmoitustaulun”](https://docs.google.com/spreadsheets/d/1r2sPT9-v6lhxa1H_aXDH0H7nNEI_YtohExgPK6_iM14/edit#gid=0). Jos tiedät että olet lähdössä tyhjällä autolla kisoihin, kerro siitä muille ja tarjoa kyyti sitä tarjoavalle. Etenkin autottomalle voit tehdä selvästi pientä säästöä isomman palveluksen. Ja tietenkin ilmoitustaulu toimii myös toisinpäin ja voit hakea kyytiä.
 
-[Kimppakyytien ilmoitustaulu](https://docs.google.com/spreadsheets/d/1r2sPT9-v6lhxa1H_aXDH0H7nNEI_YtohExgPK6_iM14/edit#gid=0)
+### [Kimppakyytien ilmoitustaulu](https://docs.google.com/spreadsheets/d/1r2sPT9-v6lhxa1H_aXDH0H7nNEI_YtohExgPK6_iM14/edit#gid=0)
 
 
