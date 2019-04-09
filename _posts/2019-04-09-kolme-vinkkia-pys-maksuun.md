@@ -19,7 +19,7 @@ Huom! Jos huomaat jonkun seurakaverisi puuttuvan listalta, kannattaa tietenkin m
 
 Seurarajoihin on turha näissä asioissa lukkiutua. Etenkin vuosia kisoja kiertäneet tuntevat varmasti toisiaan myös muista seuroista. Samaa IRMAn ilmoittautuneiden joukkoa selailemella, ja samalla kisafiilikseen virittäytymällä, bongaat kilpakumppanisi tai muun suunnistajaystäväsi ilmoittautuneiden listalta. Eikä kaverisi tarvitse lähteä samalta kinkeripiiriltä, riittää että hänen tai sinun reittisi kohtaavat jossain ennen Sauvoa. 
 
-Sovi yhteiskyyti heti ja säästätte molemmat rahaa. Jos tuntuu että suunnistavia ystäviä on vielä liian vähän, juttele rohkeasti tämän vuoden FinnSpringissä ja ehkä menette jo kesän [Helsinki O-Gamesiin](http://helsinkiogames.fi) kimppakyydillä. 
+Sovi yhteiskyyti heti ja säästätte molemmat rahaa. Jos tuntuu että suunnistavia ystäviä on vielä liian vähän, juttele rohkeasti tämän vuoden FinnSpringissä pahimman kilpakumppanisi kanssa ja ehkä menette jo kesän [Helsinki O-Gamesiin](http://helsinkiogames.fi) kimppakyydillä. 
 
 ## 3. Tarjoa tai pyydä kyytiseuraa netin kautta
 
