@@ -10,6 +10,8 @@ Ratamestari (lauantai): Jukka Oksa
 Ratamestari (sunnuntai): Sami Valkama  
 Ratamestari (Lasten radat): Olli Axelin 
 
+Tiedottaja/Media: Liisa Ahonen, ahonen.liisa.r@gmail.com, 050 521 8325‬ 
+
 Tekninen asiantuntija: Matti Mäkirinne  
 Valvoja: Ilkka Saarimäki  
 WRE-valvoja: Vesa Elovaara
