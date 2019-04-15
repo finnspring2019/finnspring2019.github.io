@@ -7,6 +7,8 @@ IRMA-palvelu on saatu päivän mittaan toimimaan jossain määrin, mutta outo bu
 
 Jos tämän tyyppinen ongelma vielä estää ilmoittautumista, ilmoittaudu nyt johonkin muuhun samanhintaiseen sarjaan ja laita sähköpostia silja ät paimionrasti.fi osoitteeseen, mihin sarjaan oikeasti haluat. Emme pysty myöskään seuran hallintatunnuksilla ongelmaa ohittamaan, mutta siirrämme teidät sitten varsinaisessa tulospalveluohjelmistossa oikeaan sarjaan.
 
+Jos tämäkään ei auta, ilmoittaudu perinteisesti sähköpostitse (Nimi, lisenssinumero, sarja, emit) ja maksa suoraan tilille tai paikanpäällä infoon.
+
 Koska työssä on ns. human-factor mukana, tarkistathan vielä myös lähtöluettelosta että olet oikeassa sarjassa. Lähtöluettelot julkaistaan keskiviikko-iltana, noin klo 19:00, jolloin aukeaa myös AL-sarjojen lähtöaikojenvalintapalvelu.
 
 Tervetuloa keväiseen Sauvoon!
