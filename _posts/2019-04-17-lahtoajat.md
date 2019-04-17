@@ -7,6 +7,8 @@ Lähtöajat on nyt arvottu. Mahdolliset huomiot ja emit-kortin muutokset tästä
 
  * [Sarjoittain](https://finnspring2019.eu/lahtolista_sarja.html)
  * [Seuroittain](https://finnspring2019.eu/lahtolista_seura.html)
+ 
+Pääsarjoihin harkintapaikkoja SSL käytti seuraavasti: Miesten pääsarjassa 10 ja naisten pääsarjassa 8 harkintapaikkaa suoraan maailmanrankipisteiden perusteella. Naisten sarjaan lisäksi Anni Haanpää (D20 loppuranki 3:s) ja Johanna Hulkkonen (terveysongelmat 2017-18).
 
 # AL-sarjojen lähtöaikojen valinta käynnissä
 
