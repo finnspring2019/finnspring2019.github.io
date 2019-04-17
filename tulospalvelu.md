@@ -6,8 +6,8 @@ title: Tulospalvelu
 Tälle sivulle keräämme lähtöaikoja, online-tuloksia, videolähetyksiä ja GPS-seurantalinkkejä.
 
 ### Online-tulospalvelu
-* [Online 1-päivittyy automaattisesti](https://online4.tulospalvelu.fi/tulokset-new/fi/2019_fs/)
-* [Online 2-"vanha"](https://online4.tulospalvelu.fi/tulokset/fi/2019_fs/)
+* [Online 1-"uusi" automaattisestipäivittyvä](https://online4.tulospalvelu.fi/tulokset-new/fi/2019_fs/)
+* [Online 2-"vanha" versio](https://online4.tulospalvelu.fi/tulokset/fi/2019_fs/)
 
 ### Lähtöajat
 
