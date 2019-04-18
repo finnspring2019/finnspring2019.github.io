@@ -46,4 +46,3 @@ Sami Valkama, ratamestari
 
 
 ![Viestiliiga]({{ site.url }}/img/2019-04-18_viestiliiga.png "Viestiliiga")
-![Finnspring]({{ site.url }}/img/2019-04-18_finnspring_uusi.jpg "Finnspring")
