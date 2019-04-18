@@ -34,7 +34,7 @@ Ratamestarina toivon kovaa taistelua aivan jokaisesta sijasta. Vauhti on varmast
 
 ## ISTV välittää tunnelmat suorana
 
-Urheilu on tunnetusti parasta paikan päällä (!), mutta Viestiliigan jokaista osakilpailua pääsee seuraamaan myös kotisohvalta. 
+Urheilu on tunnetusti parasta paikan päällä(!), mutta Viestiliigan jokaista osakilpailua pääsee seuraamaan myös kotisohvalta. 
 Finnspring-viesti näytetään suorana lähetyksenä ISTV:ssä ja Ruudussa sunnuntaina 21.4. klo 10:45 alkaen.
 
 [Linkki suoraan ISTV:n lähetykseen](https://www.is.fi/muutlajit/art-2000006073763.html)
