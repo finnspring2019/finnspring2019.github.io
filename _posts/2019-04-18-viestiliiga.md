@@ -5,7 +5,7 @@ title: Finnspring-viestissä Viestiliigan toinen erä - ISTV välittää tunnelm
 
 Viestiliigassa kilpaillaan seitsemässä osakilpailussa, erikseen miesten ja naisten sarjoissa. Pisteitä jaetaan jokaisella kerralla sijoituksen mukaisesti ja syksyllä eniten pisteitä keränneet joukkueet julistetaan voittajiksi.
 
-![Finnspring]({{ site.url }}/img/2019-04-18_finnspring_uusi.jpg "Finnspring") ![Finnspring]({{ site.url }}/img/2019-04-18_vl.jpg "Viestiliiga")
+![Finnspring]({{ site.url }}/img/2019-04-18_vl.jpg "Viestiliiga")
 
 Vuoden 2019 Viestiliiga täräytettiin räväkästi käyntiin viikko sitten perjantai-iltana (12.4.) Raisiossa, Turun Suunnistajien järjestämän [Kevätyön viestin](https://tus.fi/kyv2019) merkeissä. Sarjan toinen osakilpailu juostaan heti seuraavana sunnuntaina Sauvossa Finnspring-viestissä.
 
@@ -46,3 +46,4 @@ Sami Valkama, ratamestari
 
 
 ![Viestiliiga]({{ site.url }}/img/2019-04-18_viestiliiga.png "Viestiliiga")
+![Finnspring]({{ site.url }}/img/2019-04-18_finnspring_uusi.jpg "Finnspring")
