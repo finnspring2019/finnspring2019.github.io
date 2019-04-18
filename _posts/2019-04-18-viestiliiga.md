@@ -27,7 +27,7 @@ Ratamestarina toivon kovaa taistelua aivan jokaisesta sijasta. Vauhti on varmast
 ## Viimeinen 10MILA-katsastus
 
 Finnspringissä on jokaisella jengillä revanssin paikka, ja kaikki lähtevät taas samalta viivalta - H21 klo 11:00 ja D21 klo 11:20. 
-Odotettavissa on vauhdikas ja nopeatempoinen kolmiosuuksinen viestikilpailu. Kärkijoukkueet suoriutuvat pisimmistä (6 km ja 7,5 km) osuuksista varmasti 40 minuutin pintaan. Kummankin viestin kakkososuudet ovat n. kilometrin muita lyhyempiä.
+Odotettavissa on kummassakin sarjassa vauhdikas ja nopeatempoinen kolmiosuuksinen viestikilpailu. Kärkijoukkueet suoriutuvat pisimmistä (6 km ja 7,5 km) osuuksista varmasti 40 minuutin pintaan. Kummankin viestin kakkososuudet ovat n. kilometrin muita lyhyempiä.
 Näin ollen n. klo 13.20 molempien sarjojen voittajat ovat selvillä.
 
 Sunnuntain viestikilpailu toimii viimeisenä katsastuksena monelle seuralle valittaessa joukkueita seuraavana viikonloppuna skånelaismaastoissa juostavaan Tiomilaan. Lisäksi lauantaina kilpailtava pitkänmatkan kisa tuo FinnSpring-viestiin oman lisämausteensa.
