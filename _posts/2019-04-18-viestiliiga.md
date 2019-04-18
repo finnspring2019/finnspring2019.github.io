@@ -22,6 +22,8 @@ Viime vuosien vahvat seurat Koovee, Tampereen Pyrintö sekä MS Parma ja SK Pohj
 Tampereen Pyrinnön suvereeni kaksoisvoitto KYV:n H21-sarjassa veti varmasti monet kilpailijat nöyräksi. 
 Mielenkiintoista on nähdä, miten heitä sunnuntaina haastavat Nouskin lisäksi myös vahvasti kauden aloittanut Kalevan Rasti sekä Helsingin Suunnistajat, unohtamatta Kooveeta, Lahden Suunnistajia, Angelniemen Ankkureita tai Paimion Rastia.
 
+Ratamestarina toivon kovaa taistelua aivan jokaisesta sijasta. Vauhti on varmasti tapissa maailman huippujen ollessa paikalla, joten turisteille ei ole kärkikamppailuissa tilaa.
+
 ## Viimeinen 10MILA-katsastus
 
 Finnspringissä on jokaisella jengillä revanssin paikka, ja kaikki lähtevät taas samalta viivalta - H21 klo 11:00 ja D21 klo 11:20. 
@@ -29,8 +31,6 @@ Odotettavissa on vauhdikas ja nopeatempoinen kolmiosuuksinen viestikilpailu. Kä
 Näin ollen n. klo 13.20 molempien sarjojen voittajat ovat selvillä.
 
 Sunnuntain viestikilpailu toimii viimeisenä katsastuksena monelle seuralle valittaessa joukkueita seuraavana viikonloppuna skånelaismaastoissa juostavaan Tiomilaan. Lisäksi lauantaina kilpailtava pitkänmatkan kisa tuo FinnSpring-viestiin oman lisämausteensa.
-
-Ratamestarina toivon kovaa taistelua aivan jokaisesta sijasta. Vauhti on varmasti tapissa maailman huippujen ollessa paikalla, joten turisteille ei ole kärkikamppailuissa tilaa.
 
 ## ISTV välittää tunnelmat suorana
 
