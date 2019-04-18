@@ -15,7 +15,7 @@ Kaudeksi 2018 uudelleenlanseerattu Viestiliiga on mukavasti elävöittänyt suom
 
 Tämän kauden ensimmäisen erän Raisiossa veivät nimiinsä Pargas IF (D21) ja Tampereen Pyrintö (H21).
 
-Erityisen mahtavaa oli nähdä “Piffenin” naisten paluu - takaisin yhdeksi suomalaisen suunnistuksen kärkiseuroista. 
+Erityisen mahtavaa oli nähdä “Piffenin” naisten paluu - takaisin yhdeksi suomalaisen huippusuunnistuksen kärkiseuroista. 
 Edellisenä viikonloppuna monilta seuroilta puuttui joukkueesta useita maajoukkuesuunnistajia, jotka leireilivät samaan aikaan Norjassa. Nyt tilanne on toinen, kun moni seura asettaa viivalle parhaimmistonsa.
 Viime vuosien vahvat seurat Koovee, Tampereen Pyrintö sekä MS Parma ja SK Pohjantähti tulevat keikkumaan kärkipaikoilla. Haastajia on monia: Rastikarhut, Paimion Rasti ja miksei myös Helsingin Suunnistajat.
 
