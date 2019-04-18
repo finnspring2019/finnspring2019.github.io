@@ -20,7 +20,7 @@ Edellisenä viikonloppuna monilta seuroilta puuttui joukkueesta useita maajoukku
 Viime vuosien vahvat seurat Koovee, Tampereen Pyrintö sekä MS Parma ja SK Pohjantähti tulevat keikkumaan kärkipaikoilla. Haastajia on monia: Rastikarhut, Paimion Rasti ja miksei myös Helsingin Suunnistajat.
 
 Tampereen Pyrinnön suvereeni kaksoisvoitto KYV:n H21-sarjassa veti varmasti monet kilpailijat nöyräksi. 
-Mielenkiintoista on nähdä, miten heitä sunnuntaina haastavat Nouskin lisäksi myös vahvasti kauden aloittanut Kalevan Rasti sekä Helsingin Suunnistajat, unohtamatta Kooveeta, Lahden Suunnistajia, Angelniemen Ankkureita tai Paimion Rastia.
+Mielenkiintoista on nähdä, miten heitä sunnuntaina haastavat Ikaalisten Nousevan-Voiman lisäksi myös vahvasti kauden aloittanut Kalevan Rasti sekä Helsingin Suunnistajat, unohtamatta Kooveeta, Lahden Suunnistajia, Angelniemen Ankkureita tai Paimion Rastia.
 
 Ratamestarina toivon kovaa taistelua aivan jokaisesta sijasta. Vauhti on varmasti tapissa maailman huippujen ollessa paikalla, joten turisteille ei ole kärkikamppailuissa tilaa.
 
