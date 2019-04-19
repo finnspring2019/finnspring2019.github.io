@@ -10,7 +10,7 @@ Tässä ratamestareiden vinkit kilpailijoille valmistautuessaan viikonlopun Finn
 1. Riittävä tankkaus pitkälle matkalle ja lämpimään säähän.
 2. Tsekkaa kilpailukeskuksen viitoitukset ennen lähtöä.
 3. Testaa Emit-korttisi mallirastilla - etenkin, jos ensimmäinen käyttökerta tänä vuonna.
-4. 15000-mittakaavalla juoksiville kilpailijoille looppi mukaan.
+4. 15000-mittakaavalla juokseville kilpailijoille looppi mukaan.
 6. Varaa riittävästi aikaa, jotta olet ajoissa lähtöpaikalla.
 7. Ota oikeat rastimääritteet ja kartta lähdössä.
 8. Ole tarkkana, että kierrät rastit oikeassa järjestyksessä.
