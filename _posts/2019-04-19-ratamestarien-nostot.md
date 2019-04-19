@@ -30,7 +30,7 @@ Tässä ratamestareiden vinkit kilpailijoille valmistautuessaan viikonlopun Finn
  * Vettä on tietyissä paikoissa todella paljon. Pahimmat paikat on kartalla reunustettu mustalla viivalla. Ylipääsemättömän kohteen merkintä kartalla tarkoittaa ylipääsemätöntä kohdetta maastossa.
 6. Pääsarjoilla varvausrasti
  * Kilpailijat käyvät näyttäytymässä yleisölle kilpailukeskuksen nurkassa, kukkulan päällä
-7. Naisten kakkososuus ei juokse varvauksen kautta
+ * Naisten kakkososuus ei juokse varvauksen kautta
 
 Nautiskele upeasta kevätsäästä ja kovasta kilpailusta!
 
