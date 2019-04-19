@@ -25,13 +25,13 @@ description: Kevään suunnistuskauden ykkösviikonloppu
 navbar-links:
   FinnSpring 2019: "finnspring"
   Kilpailu-info:
-    - Kilpailuohjeet: "https://docs.google.com/document/d/e/2PACX-1vR4Br3RfcpKlv0MI7AYSq_dXCJ1JrcJ7vFHdrn4N5dBoeFtmCR1G_ZTqTRM-Rk_FkPkkg556Vw9wmvM/pub"
-    - Harjoituskieltoalue: "http://www.karttarekisteri.fi/kartta2015/index.php/pages/map/8470"
     - Kilpailukutsu: "https://docs.google.com/document/d/e/2PACX-1vRNBVUyH5azmjvP71TejQouiI8WNnJTtl0a0OgeIstLZGcOzCzkGI2UMqpWTfsdPXoO4dI9NKMmsGAd/pub"
+    - Kilpailuohjeet: "https://docs.google.com/document/d/e/2PACX-1vR4Br3RfcpKlv0MI7AYSq_dXCJ1JrcJ7vFHdrn4N5dBoeFtmCR1G_ZTqTRM-Rk_FkPkkg556Vw9wmvM/pub"
+    - Kilpailukeskuskartta (lauantai): "img/2019-04-19-kkkarttala.png"
     - Matkat: "https://docs.google.com/spreadsheets/d/e/2PACX-1vRfyS34f0IX3YiqPzxTzuBgtoAUGPekexekJb5ExuFU_AjO1aPMYh00ID2W58us_hh4KlFDKrsHOUQ6/pubhtml"
     - Kuntosuunnistus: "kuntosuunnistus"
+    - Harjoituskieltoalue: "http://www.karttarekisteri.fi/kartta2015/index.php/pages/map/8470"
     - Toimitsijat: "https://docs.google.com/document/d/1-Kseqfar_gQbsbYwA7bWQm6HTfDmtSY9fn-yYL9KQFw/edit#heading=h.8ygop3h26abm"
-    - Kilpailukeskuskartta (lauantai): "img/2019-04-19-kkkarttala.png"
   Tulospalvelu: "tulospalvelu"
   Yhteystiedot: "contact"
   In English:
