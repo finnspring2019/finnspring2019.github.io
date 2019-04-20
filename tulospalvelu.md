@@ -5,6 +5,11 @@ title: Tulospalvelu
 
 Tälle sivulle keräämme lähtöaikoja, online-tuloksia, videolähetyksiä ja GPS-seurantalinkkejä.
 
+### Lopputulokset, väliajat ja Reittihärveli / Results, SplitTimes and RouteGadget
+* [Lopputulokset / Results](https://finnspring2019.eu/tulokset_henk.html)
+* [Väliajat / SplitTimes](https://finnspring2019.eu/emitajat.html)
+* [Reittihärveli / RouteGadget, Tulossa, Coming soon !](http://av.nettirasia.com/reitti/cgi-bin/reitti.cgi)
+
 ### Online-tulospalvelu
 * [Online 1-"uusi" automaattisestipäivittyvä](https://online4.tulospalvelu.fi/tulokset-new/fi/2019_fs/)
 * [Online 2-"vanha" versio](https://online4.tulospalvelu.fi/tulokset/fi/2019_fs/)
