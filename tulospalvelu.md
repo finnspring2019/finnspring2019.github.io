@@ -21,5 +21,10 @@ Tälle sivulle keräämme lähtöaikoja, online-tuloksia, videolähetyksiä ja G
  * [Sarjoittain](https://finnspring2019.eu/lahtolista_sarja.html)
  * [Seuroittain](https://finnspring2019.eu/lahtolista_seura.html)
 
+### Kuntosuunnistus
+
+ * [Lauantai](kuntotuloksetlauantai.html)
+ * [Lauantai väliajat](kuntovaliajatlauantai.html)
+
 
 Yhteistyössä: [ResultSalo](https://resultsalo.fi/)
