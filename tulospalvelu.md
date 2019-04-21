@@ -12,9 +12,9 @@ Tällä sivulla lähtöajat, juoksujärjestykset, online-tuloslinkit sekä youtu
 * [Väliajat lauantai / SplitTimes Saturday](https://finnspring2019.eu/emitajat.html)
 * [Reittihärveli / RouteGadget](http://av.nettirasia.com/reitti/cgi-bin/reitti.cgi)
 
-#### Sunnuntai/Sunday
-* [Lopputulokset lauantai / Results Sunday](https://finnspring2019.eu/tulokset_viesti.html)
-* [Väliajat lauantai / SplitTimes Sunday](https://finnspring2019.eu/emitajat_viesti.html)
+#### Sunnuntai-viesti/Sunday-relay
+* [Lopputulokset sunnuntai / Results Sunday](https://finnspring2019.eu/tulokset_viesti.html)
+* [Väliajat sunnuntai / SplitTimes Sunday](https://finnspring2019.eu/emitajat_viesti.html)
 * [Reittihärveli / RouteGadget](http://av.nettirasia.com/reitti/cgi-bin/reitti.cgi)
 
 ### Online-tulospalvelut kisan aikana/Online service 
@@ -23,7 +23,7 @@ Tällä sivulla lähtöajat, juoksujärjestykset, online-tuloslinkit sekä youtu
 * [Online 1-"vanha" versio / Online "old" version](https://online4.tulospalvelu.fi/tulokset/fi/2019_fs/)
 * [Online 2-"uusi" automaattisestipäivittyvä / Online "new" update automatically](https://online4.tulospalvelu.fi/tulokset-new/fi/2019_fs/)
 
-#### Sunnuntai/Sunday
+#### Sunnuntai-viesti/Sunday-relay
 * [Online 1-"vanha" versio / Online "old" version](https://online4.tulospalvelu.fi/tulokset/fi/2019_fsv/)
 * [Online 2-"uusi" automaattisestipäivittyvä / Online "new" update automatically](https://online4.tulospalvelu.fi/tulokset-new/fi/2019_fsv/)
 
@@ -34,7 +34,7 @@ Tällä sivulla lähtöajat, juoksujärjestykset, online-tuloslinkit sekä youtu
 
 ### Lähtöajat ja juoksujärjestykset/Startlist
 
-#### Sunnuntai/Sunday
+#### Sunnuntai-viesti/Sunday-relay
  * [Juoksujärjestykset, Sunnuntai / Startlist, Sunday](https://finnspring2019.eu/juoksujarjestykset.html)
 
 #### Lauantai/Saturday
