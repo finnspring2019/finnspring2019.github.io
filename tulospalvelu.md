@@ -14,9 +14,10 @@ Tälle sivulle keräämme lähtöaikoja, online-tuloksia, videolähetyksiä ja G
 [GPS joukkueet](https://finnspring2019.eu/listat_finnspring.pdf)
 
 ### Lopputulokset, väliajat ja Reittihärveli / Results, SplitTimes and RouteGadget
-* [Lopputulokset / Results](https://finnspring2019.eu/tulokset_henk.html)
-* [Väliajat / SplitTimes](https://finnspring2019.eu/emitajat.html)
-* [Reittihärveli / RouteGadget, Tulossa, Coming soon !](http://av.nettirasia.com/reitti/cgi-bin/reitti.cgi)
+
+* [Lopputulokset lauantai / Results Saturday](https://finnspring2019.eu/tulokset_henk.html)
+* [Väliajat lauantai / SplitTimes Saturday](https://finnspring2019.eu/emitajat.html)
+* [Reittihärveli / RouteGadget](http://av.nettirasia.com/reitti/cgi-bin/reitti.cgi)
 
 ### [Youtube Live](https://www.youtube.com/watch?v=8PrNBxm8oDg)
 
