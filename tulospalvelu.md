@@ -5,6 +5,10 @@ title: Tulospalvelu
 
 Tälle sivulle keräämme lähtöaikoja, online-tuloksia, videolähetyksiä ja GPS-seurantalinkkejä.
 
+### Online-tulospalvelu
+* [Online 2-"vanha" versio](https://online4.tulospalvelu.fi/tulokset/fi/2019_fsv/)
+* [Online 1-"uusi" automaattisestipäivittyvä](https://online4.tulospalvelu.fi/tulokset-new/fi/2019_fsv/)
+
 ## GPS joukkueet
 
 [GPS joukkueet](https://finnspring2019.eu/listat_finnspring.pdf)
@@ -13,10 +17,6 @@ Tälle sivulle keräämme lähtöaikoja, online-tuloksia, videolähetyksiä ja G
 * [Lopputulokset / Results](https://finnspring2019.eu/tulokset_henk.html)
 * [Väliajat / SplitTimes](https://finnspring2019.eu/emitajat.html)
 * [Reittihärveli / RouteGadget, Tulossa, Coming soon !](http://av.nettirasia.com/reitti/cgi-bin/reitti.cgi)
-
-### Online-tulospalvelu
-* [Online 1-"uusi" automaattisestipäivittyvä](https://online4.tulospalvelu.fi/tulokset-new/fi/2019_fs/)
-* [Online 2-"vanha" versio](https://online4.tulospalvelu.fi/tulokset/fi/2019_fs/)
 
 ### [Youtube Live](https://www.youtube.com/watch?v=8PrNBxm8oDg)
 
