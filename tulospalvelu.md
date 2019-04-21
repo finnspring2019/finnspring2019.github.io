@@ -7,45 +7,45 @@ Tällä sivulla lähtöajat, juoksujärjestykset, online-tuloslinkit sekä youtu
 
 ## Lopputulokset, väliajat ja Reittihärveli / Results, SplitTimes and RouteGadget
 
-### Lauantai
+### Lauantai/Saturday
 * [Lopputulokset lauantai / Results Saturday](https://finnspring2019.eu/tulokset_henk.html)
 * [Väliajat lauantai / SplitTimes Saturday](https://finnspring2019.eu/emitajat.html)
 * [Reittihärveli / RouteGadget](http://av.nettirasia.com/reitti/cgi-bin/reitti.cgi)
 
-### Sunnuntai
-* [Lopputulokset lauantai / Results Saturday](https://finnspring2019.eu/tulokset_viesti.html)
-* [Väliajat lauantai / SplitTimes Saturday](https://finnspring2019.eu/emitajat_viesti.html)
+### Sunnuntai/Sunday
+* [Lopputulokset lauantai / Results Sunday](https://finnspring2019.eu/tulokset_viesti.html)
+* [Väliajat lauantai / SplitTimes Sunday](https://finnspring2019.eu/emitajat_viesti.html)
 * [Reittihärveli / RouteGadget](http://av.nettirasia.com/reitti/cgi-bin/reitti.cgi)
 
-## Online-tulospalvelut kisan aikana
+## Online-tulospalvelut kisan aikana/Online service 
 
-### Lauantai
-* [Online 2-"vanha" versio](https://online4.tulospalvelu.fi/tulokset/fi/2019_fs/)
-* [Online 1-"uusi" automaattisestipäivittyvä](https://online4.tulospalvelu.fi/tulokset-new/fi/2019_fs/)
+### Lauantai/Saturday
+* [Online 1-"vanha" versio / Online "old" version](https://online4.tulospalvelu.fi/tulokset/fi/2019_fs/)
+* [Online 2-"uusi" automaattisestipäivittyvä / Online "new" update automatically](https://online4.tulospalvelu.fi/tulokset-new/fi/2019_fs/)
 
-### Sunnuntai
-* [Online 2-"vanha" versio](https://online4.tulospalvelu.fi/tulokset/fi/2019_fsv/)
-* [Online 1-"uusi" automaattisestipäivittyvä](https://online4.tulospalvelu.fi/tulokset-new/fi/2019_fsv/)
+### Sunnuntai/Sunday
+* [Online 1-"vanha" versio / Online "old" version](https://online4.tulospalvelu.fi/tulokset/fi/2019_fsv/)
+* [Online 2-"uusi" automaattisestipäivittyvä / Online "new" update automatically](https://online4.tulospalvelu.fi/tulokset-new/fi/2019_fsv/)
 
-### YoutubeLive tallenne
+### YoutubeLive tallenne/YoutubeLive record
 
-* [Youtube Live, Lauantai](https://www.youtube.com/watch?v=kQ14N4Kcg3k)
-* [Youtube Live, Sunnuntai](https://www.youtube.com/watch?v=8PrNBxm8oDg)
+* [Youtube Live, Lauantai / Saturday](https://www.youtube.com/watch?v=kQ14N4Kcg3k)
+* [Youtube Live, Sunnuntai / Sunday](https://www.youtube.com/watch?v=8PrNBxm8oDg)
 
-## Lähtöajat ja juoksujärjestykset
+## Lähtöajat ja juoksujärjestykset/Startlist
 
-### Sunnuntai
- * [Juoksujärjestykset, Sunnuntai ](https://finnspring2019.eu/juoksujarjestykset.html)
+### Sunnuntai/Sunday
+ * [Juoksujärjestykset, Sunnuntai / Startlist, Sunday](https://finnspring2019.eu/juoksujarjestykset.html)
 
-### Lauantai
- * [Sarjoittain, Lauantai](https://finnspring2019.eu/lahtolista_sarja.html)
- * [Seuroittain, Lauantai](https://finnspring2019.eu/lahtolista_seura.html)
+### Lauantai/Saturday
+ * [Sarjoittain, Lauantai / Startlist by class, Saturday](https://finnspring2019.eu/lahtolista_sarja.html)
+ * [Seuroittain, Lauantai / Startlist by club, Saturday](https://finnspring2019.eu/lahtolista_seura.html)
 
-## Kuntosuunnistus
+## Kuntosuunnistus/Open orienteering
 
- * [Lauantai](kuntotuloksetlauantai.html)
- * [Lauantai väliajat](kuntovaliajatlauantai.html)
- * [Sunnuntai](kuntotuloksetsunnuntai.html)
- * [Sunnuntai väliajat](kuntovaliajatsunnuntai.html)
+ * [Lauantai  /Saturday](kuntotuloksetlauantai.html)
+ * [Lauantai väliajat / Saturday splits](kuntovaliajatlauantai.html)
+ * [Sunnuntai / Sunday](kuntotuloksetsunnuntai.html)
+ * [Sunnuntai väliajat / Sunday splits](kuntovaliajatsunnuntai.html)
 
-Yhteistyössä: [ResultSalo](https://resultsalo.fi/)
+Yhteistyössä/	in co-operation: [ResultSalo](https://resultsalo.fi/)
