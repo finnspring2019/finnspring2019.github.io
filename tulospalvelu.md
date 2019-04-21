@@ -8,7 +8,7 @@ Tällä sivulla lähtöajat, juoksujärjestykset, online-tuloslinkit sekä youtu
 ## Lopputulokset, väliajat ja Reittihärveli / Results, SplitTimes and RouteGadget
 
 ### Lauantai
-* [Lopputulokset lauantai / Results Saturday](https://finnspring2019.eu/tulokset_henk.html
+* [Lopputulokset lauantai / Results Saturday](https://finnspring2019.eu/tulokset_henk.html)
 * [Väliajat lauantai / SplitTimes Saturday](https://finnspring2019.eu/emitajat.html)
 * [Reittihärveli / RouteGadget](http://av.nettirasia.com/reitti/cgi-bin/reitti.cgi)
 
