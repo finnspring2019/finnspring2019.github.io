@@ -11,7 +11,7 @@ Naisten kisa oli hieman tiukempi: voiton nappasi MS Parman venäläinen Anastasi
 
 Nuorten eliittisarjoissa kisattiin samalla Inov8-liigan merkeissä. Voittoja juhlivat Aaro Aho (H20E), Siiri Silvennoinen (D20E), Touko Seppä (H18E), Liisa Peltonen (D18E), Aarni Ronkainen (H16E) sekä Fanny Kukonlehto (D16E).
 
-Lynx-yllätysviestivoittoon sunnuntaina
+## Lynx-yllätysviestivoittoon sunnuntaina
 
 Sunnuntain viesteistä muodostui yllätyksellinen etenkin naisten Viestiliiga-kisassa. Voittoon nousi Lynx Aino Mänkärlän hienon ankkuroinnin ansiosta. Kevätyön ykkönen Pargas IF jätettiin kakkoseksi, kun taas kolmanneksi suunnisti todellinen yllättäjä Kouvolan Suunnistajat. Tampereen Pyrintö tipahti ankkuriosuuden johtopaikalta ison virheen seurauksena kuudenneksi.
 
