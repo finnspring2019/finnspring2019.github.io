@@ -14,7 +14,7 @@ Tälle sivulle keräämme lähtöaikoja, online-tuloksia, videolähetyksiä ja G
 * [Online 1-"uusi" automaattisestipäivittyvä](https://online4.tulospalvelu.fi/tulokset-new/fi/2019_fs/)
 * [Online 2-"vanha" versio](https://online4.tulospalvelu.fi/tulokset/fi/2019_fs/)
 
-### [Youtube Live](https://www.youtube.com/watch?v=kQ14N4Kcg3k)
+### [Youtube Live](https://www.youtube.com/watch?v=8PrNBxm8oDg)
 
 ### Lähtöajat
 
