@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tulospalvelu
+title: Tulospalvelu/Result service
 ---
 
 Tällä sivulla lähtöajat, juoksujärjestykset, online-tuloslinkit sekä youtube livet.
