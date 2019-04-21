@@ -32,7 +32,7 @@ navbar-links:
     - Kuntosuunnistus: "kuntosuunnistus"
     - Harjoituskieltoalue: "http://www.karttarekisteri.fi/kartta2015/index.php/pages/map/8470"
     - Toimitsijat: "https://docs.google.com/document/d/1-Kseqfar_gQbsbYwA7bWQm6HTfDmtSY9fn-yYL9KQFw/edit#heading=h.8ygop3h26abm"
-  Tulospalvelu: "tulospalvelu"
+  Tulospalvelu-Resultservice: "tulospalvelu"
   Yhteystiedot: "contact"
   In English:
     - FinnSpring 2019: "in-english"
