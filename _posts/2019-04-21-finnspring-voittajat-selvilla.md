@@ -3,6 +3,9 @@ layout: post
 title: FinnSpring voittajat selvillä
 ---
 
+![Viestiliigan lähtö]({{ site.url }}/img/vl_lahto.jpg "Lähtökiihdytys")
+
+
 ## FinnSpring-lauantai Kuukan näytöstä
 
 Lähes 2700 suunnistajaa nautiskeli Sauvon Suojalan avokallioista lauantaina. Eliittisarjoissa kisattiin samalla näyttökilpailun merkeissä kauden tulevia arvokisoja varten.
