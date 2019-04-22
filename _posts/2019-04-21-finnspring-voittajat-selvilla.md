@@ -4,6 +4,7 @@ title: FinnSpring voittajat selvillä
 ---
 
 ![Viestiliigan lähtö]({{ site.url }}/img/vl_lahto.jpg "Lähtökiihdytys")
+*Kuva: Marjo Lalli/ Viestiliiga*
 
 
 ## FinnSpring-lauantai Kuukan näytöstä
