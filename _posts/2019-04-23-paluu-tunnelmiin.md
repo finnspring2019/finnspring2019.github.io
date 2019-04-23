@@ -27,7 +27,7 @@ Paikalla oli jälleen kasa kovan luokan valokuvaajia. Mm. [Sepin kuvista](https:
 
 Ja jos passiivisempi paluu kisatunnelmiin kiinnostaa, viritä älyteeveesi YouTubeen [FinnSpring2019 viesti](https://www.youtube.com/watch?v=HXOhNoDXYwU), avaa virvoke ja rentoudu kotisohvallasi.
 
-## Tervetuloa jälleen ensivuonna!
+## Tervetuloa jälleen ensi vuonna!
 
 Ensi vuonna Paimiossa kisailtaneen **Viking-Rasteilla**. Kuten ehkä huomasit tämän vuoden ja viime vuoden kisoista, Paimion Rastin laivayhtiö on vaihtunut ja lienee aika vaihtaa myös perinteisen kevätkisan nimeä. FinnSpring 2020 kisaillaan ensi vuonna naapuriseura Angelniemen Ankkurin isännöimänä. Aikaista kevättä ja avokallionautintoa tarjolla varmasti molemmissa. Tervetuloa!
 
