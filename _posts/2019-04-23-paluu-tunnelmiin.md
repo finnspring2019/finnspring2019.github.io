@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Paluu FinnSpring 2019 tunnelmiin
+title: Paluu FinnSpring 2019 -tunnelmiin
 ---
 
 Kisat ovat takana ja voittajat selvillä. Tässä vielä pari vinkkia palata suunnistuksen täyteisen kevätpäivän tunnelmiin.
@@ -9,17 +9,17 @@ Kisat ovat takana ja voittajat selvillä. Tässä vielä pari vinkkia palata suu
 
 ![M21E analyysi]({{ site.url }}/img/h21a-analyysit.png "M21E analyysi")
 
-Vaikka kisat ovat ohi, spekulaatiot eivät lopu ikinä. Väliajoista piirrät havainnolistavat kuvaajat tai tulkaat vain numeroita. Sekä viestin että henkilökohtaisen kisan väliajat löydät [tulossivun kautta](https://finnspring2019.eu/tulospalvelu/).
+Vaikka kisat ovat ohi, spekulaatiot eivät lopu ikinä. Väliajoista piirrät havainnolistavat kuvaajat tai tulkkaat vain numeroita. Sekä viestin että henkilökohtaisen kisan väliajat löydät [tulossivun kautta](https://finnspring2019.eu/tulospalvelu/).
 
 ## Reittihärveli
 
-Oppia sekä omista että toisten reiteistä saat tietenkin analysoimalla reitinvalinna perinteisestä [Reittihärvelistä](https://finnspring2019.eu/tulospalvelu/) tai [3DRerunista](http://3drerun.worldofo.com/index.php?st=finnspring+2019&a=s&a=s&tl=1&s=lastdate&search=1&submit=Search&type=showoverview).
+Oppia sekä omista että toisten reiteistä saat tietenkin analysoimalla reitinvalinnat perinteisestä [Reittihärvelistä](https://finnspring2019.eu/tulospalvelu/) tai [3DRerunista](http://3drerun.worldofo.com/index.php?st=finnspring+2019&a=s&a=s&tl=1&s=lastdate&search=1&submit=Search&type=showoverview).
 
 ## Mahtavat valokuvat
 
 ![Toni Saari](https://seppov.galleria.fi/kuvat/Finnspring2019/Finnspring19%20viesti-1-8.jpg/_medium.jpg "Toni Saari") *Toni Saari FinnSpring 2019 suunnistuksissa, Kuva: Seppo Väli-Klemelä*
 
-Paikalla oli jälleen kasa kovan luokan valokuvaajia. Mm. [Sepin kuvista](https://seppov.galleria.fi/kuvat/Finnspring2019/) löydät monet huipputekijät autenttisesta ympäristöstä ja Huippuliigan valokuvausvastaavan, Marjo Lallin, parhaat otokset [Instagramista](https://www.instagram.com/viestiliiga/).
+Paikalla oli jälleen kasa kovan luokan valokuvaajia. Mm. [Sepin kuvista](https://seppov.galleria.fi/kuvat/Finnspring2019/) löydät monet huipputekijät autenttisesta ympäristöstä ja Viestiliigan valokuvausvastaavan, Marjo Lallin, parhaat otokset [Instagramista](https://www.instagram.com/viestiliiga/).
 
 ## IS-TV:n "kokoillan elokuva"
 
